@@ -58,8 +58,8 @@ const projects = [
   {
     url: "https://fandresh62183.github.io/ClonGoogle/",
     imgSrc: "assets/images/clon-google.png",
-    imgAlt: "Clon de google"
-  }
+    imgAlt: "Clon de google",
+  },
 ];
 
 const interfaces = [

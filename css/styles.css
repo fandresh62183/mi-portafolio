@@ -191,10 +191,9 @@ p {
 
 .hero-image {
   background-image: url("/assets/images/hero-image-developer.png");
-  background-repeat: no-repeat;
+  background-repeat: no-repea;
   background-size: cover;
   background-position: center;
-  background-attachment: var(--hero-attachment);
 }
 
 .hero-image-opacity {
@@ -204,7 +203,6 @@ p {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-color: var(--hero-opacity-color);
 }
 
 .hero-image-title {
