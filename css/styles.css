@@ -192,9 +192,7 @@ p {
 .hero-image {
   background-image: url("https://firebasestorage.googleapis.com/v0/b/tiendasurafaha.appspot.com/o/mi-proyecto%2Fhero-image-developer.png?alt=media&token=5a40486a-0e8e-4541-8ac0-09612469b3af");
   background-repeat: no-repea;
-  background-size: cover;
-  background-position: center;
-  opacity: 0.7;
+  background-size: cover; 
 }
 
 
@@ -210,7 +208,7 @@ p {
 .hero-image-title {
   font-size: 7.5vw;
   color: var(--first-color);
-  
+  font-size: 6rem;
 }
 
 .btn {
