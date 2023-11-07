@@ -190,7 +190,7 @@ p {
 /* Sección Hero */
 
 .hero-image {
-  background-image: url("/assets/images/hero-image-developer.png");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/tiendasurafaha.appspot.com/o/mi-proyecto%2Fhero-image-developer.png?alt=media&token=5a40486a-0e8e-4541-8ac0-09612469b3af");
   background-repeat: no-repea;
   background-size: cover;
   background-position: center;
