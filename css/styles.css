@@ -194,7 +194,9 @@ p {
   background-repeat: no-repea;
   background-size: cover;
   background-position: center;
+  opacity: 0.7;
 }
+
 
 .hero-image-opacity {
   width: 100%;
@@ -207,7 +209,8 @@ p {
 
 .hero-image-title {
   font-size: 7.5vw;
-  color: var(--hero-text-color);
+  color: var(--first-color);
+  
 }
 
 .btn {
